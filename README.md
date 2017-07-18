@@ -1,3 +1,4 @@
+# package clone by https://github.com/woojean/PHPCoverage couse of compoer do not work
 # PHPCoverage说明文档
 PHPCoverage是一款基于xdebug实现的PHP代码覆盖率统计工具，可以方便地对PHP项目的代码覆盖率情况进行统计。
 
