@@ -163,6 +163,11 @@ class Reporter{
 
 	private $docFlag = false;
 	public function is_line_excutable($line){
+        /**
+         * the xdebug collection it ,must be excute;
+         */
+        return true;
+
 		if($this->docFlag && empty(strstr($line,'*/'))){
 			return false;
 		}
