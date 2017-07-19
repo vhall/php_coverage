@@ -3,7 +3,7 @@
     "description": "php code coverage",
     "license": "MIT",
     "keywords": ["coverage code php"],
-    "version": "2.0.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "woojean",

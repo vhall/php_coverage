@@ -1,6 +1,0 @@
-<?php
-
-return [
-	"/vagrant/www/cbd_wechat/vendor",
-	"/vagrant/www/cbd_wechat/library"
-];
